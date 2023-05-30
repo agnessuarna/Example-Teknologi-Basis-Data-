@@ -2,7 +2,29 @@
 
 Source ini menggunakan React js dan Tailwinds CSS.
 
-1. clone this repository
-2. in visual studio code or other, go to cd frontend
-3. install npm with "npm i"
-4. run the code with " npm run start"
+Source Code ini untuk Frontend (Bagian UI)nya
+
+## How to Run this Source Code in Local 
+- Clone this project on your computer.
+  ```bash
+     https://github.com/agnessuarna/Example-Teknologi-Basis-Data-.git
+   ```
+### Frontend
+
+Go to the frontend project directory
+
+```bash
+  cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Run the app in development mode
+
+```bash
+  npm run start
+```
