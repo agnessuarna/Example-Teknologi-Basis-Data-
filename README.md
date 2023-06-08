@@ -110,7 +110,7 @@ app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });
 ```
-Replace 'your_username', 'your_password', 'localhost', 'your_database_name', and 'your_table_name' in app.js with your PostgreSQL configuration and table name.
+Replace `'your_username'`, `'your_password'`, `'localhost'`, `'your_database_name'`, and `'your_table_name'` in `app.js` with your PostgreSQL configuration and table name.
 
 4. Run the application by executing the following command:
 ```bash
